@@ -1,2 +1,2 @@
 # Python_Machine_Learning
-Projects on Predictive 
+Projects on Predictive Modelling
